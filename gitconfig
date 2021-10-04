@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = francisco.caceres@fubenow.com
+	name = Francisco Caceres
